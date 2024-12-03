@@ -97,4 +97,8 @@
         line-height: 32px;
         max-width: 300px;
     }
+    .service-container{
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+    }
   }
