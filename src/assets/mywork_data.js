@@ -11,19 +11,22 @@ const mywork_data = [
     w_no: 1,
     w_name: "Spacefy",
     w_img: spacefy_img, // Directly referencing the imported variable
-    w_desc: "Spacefy is a website for allowing users to find and book spaces for various needs, as well as for space owners to list their properties for rent..."
+    w_desc: "Spacefy is a website for allowing users to find and book spaces for various needs, as well as for space owners to list their properties for rent...",
+    w_link: "https://spacefy-nu.vercel.app/"
   },
   {
     w_no: 2,
     w_name: "Blogify",
     w_img: blogify_img,
-    w_desc: "Blogify is a platform for creating and sharing blogs, allowing users to post, edit, and engage with various content in a user-friendly interface..."
+    w_desc: "Blogify is a platform for creating and sharing blogs, allowing users to post, edit, and engage with various content in a user-friendly interface...",
+    w_link: "https://spacefy-nu.vercel.app/"
   },
   {
     w_no: 3,
     w_name: "AquaFix",
     w_img: aquafix_img,
-    w_desc: "AquaFix connects users with plumbers in their location, providing a streamlined platform for scheduling services and verifying professional credibility..."
+    w_desc: "AquaFix connects users with plumbers in their location, providing a streamlined platform for scheduling services and verifying professional credibility...",
+    w_link: "https://aqua-fix.vercel.app/signup"
   },
   {
     w_no: 4,
